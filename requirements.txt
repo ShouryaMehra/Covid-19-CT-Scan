@@ -1,0 +1,7 @@
+tensorflow
+numpy
+opencv-python
+opencv-python
+Flask==1.1.2
+Pillow==8.3.2
+python-dotenv==0.18.0
